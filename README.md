@@ -1,6 +1,6 @@
 # Solving discussion-problems-exercises INTRO-TO-JAVA-PROGRAMMING-AND-DATA-STRUCTURES-12th
 
-The main porpuse of my contribution in that section as a software engineer is to help me and help others to master Java and have strong foundations in computer programming. anyone who is doing the same and trying to develop problem solving skills. The chapters in that repository are very useful they are mostly focused on solving excercies from the book Introduction to Java Programming, here we have the latest comprehensive version until this year 2022:
+The main porpuse of my contribution in that section as a software engineer is to help myself and help others to master Java and have strong foundations in computer programming. Anyone who is doing the same and trying to develop problem solving skills. The chapters in that repository are very useful they are mostly focused on solving excercies from the book Introduction to Java Programming, here we have the latest comprehensive version until this year 2022:
 
 INTRODUCTION TO JAVA PROGRAMMING AND DATA STRUCTURES COMPREHENSIVE VERSION 12th Edition by Y. Daniel Liang Georgia Southern University
 
